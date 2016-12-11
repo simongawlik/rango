@@ -89,3 +89,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+media/
+.DS_Store
+../.DS_Store
