@@ -93,3 +93,5 @@ ENV/
 media/
 .DS_Store
 ../.DS_Store
+
+tango_with_django_project/rango/migrations
